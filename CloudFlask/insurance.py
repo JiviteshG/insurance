@@ -3,7 +3,7 @@ from flask_sqlalchemy import SQLAlchemy
 import json
 import requests
 import logging
-from CloudFlask import app, db
+from CloudFlask import app
 
 # app = Flask(__name__)
 
