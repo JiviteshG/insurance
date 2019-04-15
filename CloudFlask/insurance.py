@@ -5,7 +5,7 @@ import requests
 import logging
 from CloudFlask import app, db
 
-app = Flask(__name__)
+# app = Flask(__name__)
 
 # app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:sneha3010@localhost/cloudproject'
 # db = SQLAlchemy(app)
